@@ -1,4 +1,4 @@
-```markdown
+
 # Image Grid Creator
 
 This Python script allows you to create a grid of images by combining multiple images into a single grid layout. It's useful for creating collages or displaying multiple images in a single view.
